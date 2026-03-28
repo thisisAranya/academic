@@ -17,7 +17,7 @@ cv:
         area: Electrical and Computer Engineering
         studyType: Ph.D.
         start_date: 2025-08-01
-        end_date: ""
+        end_date: "present"
         highlights:
           - "Advised by Dr. Sanghamitra Dutta"
 
@@ -37,7 +37,7 @@ cv:
         position: Machine Learning Engineer
         location: Bangladesh
         start_date: 2025-04-01
-        end_date: ""
+        end_date: "present"
         highlights:
           - AI-based defect detection
           - Tabular data analysis
@@ -47,7 +47,7 @@ cv:
         position: Adjunct Lecturer, Department of EEE
         location: Dhaka, Bangladesh
         start_date: 2025-11-01
-        end_date: ""
+        end_date: "present"
         highlights:
           - "Courses: Wireless Communication Lab, Robotics & Automation Lab, DSP Sessional, Basic EE Circuit Sessional"
 
@@ -61,24 +61,34 @@ cv:
 
     Awards:
       - title: 1st Runner-Up, Poster Competition (AI)
+        authors:
+          - "BEAR Summit 2025"
         date: 2025-01-01
         awarder: BEAR Summit 2025
 
       - title: University Merit Scholarship (4 semesters)
+        authors:
+          - "BUET"
         date: 2023-01-01
         awarder: BUET
         summary: Awarded for outstanding academic performance
 
       - title: Dean's List Award (Years 1-2)
+        authors:
+          - "BUET"
         date: 2021-01-01
         awarder: BUET
         summary: For high cumulative GPA
 
       - title: 29th Rank out of 10,000+ candidates
+        authors:
+          - "BUET Undergraduate Admission Test"
         date: 2019-01-01
         awarder: BUET Undergraduate Admission Test
 
       - title: 31st Rank (Male Category) out of 300,000+ candidates
+        authors:
+          - "Dhaka Board HSC"
         date: 2017-01-01
         awarder: Dhaka Board HSC
         summary: Talent Pool Scholarship recipient
